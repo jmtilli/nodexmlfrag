@@ -1,0 +1,27 @@
+{
+  "name": "nodexmlfrag",
+  "version": "1.0.0",
+  "description": "Combined tree/event based XML parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juha-Matti Tilli <juha-matti.tilli@iki.fi>",
+  "license": "MIT",
+  "dependencies": {
+    "sax-parser": "^2.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmtilli/nodexmlfrag.git"
+  },
+  "keywords": [
+    "xml",
+    "parser"
+  ],
+  "bugs": {
+    "url": "https://github.com/jmtilli/nodexmlfrag/issues"
+  },
+  "homepage": "https://github.com/jmtilli/nodexmlfrag#readme"
+}

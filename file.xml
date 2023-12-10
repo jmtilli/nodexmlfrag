@@ -1,0 +1,12 @@
+<allCustomers>
+  <customer id="1">
+    <name>Clark Henson</name>
+    <accountCount>1</accountCount>
+    <totalBalance>5085.96</totalBalance>
+  </customer>
+  <customer id="2">
+    <name>Elnora Ericson</name>
+    <accountCount>3</accountCount>
+    <totalBalance>3910.11</totalBalance>
+  </customer>
+</allCustomers>
